@@ -1,4 +1,4 @@
-# 3-letter-minecraft-names
+# 3-character-minecraft-names
 A new place to get 3 letter minecraft names.
 
 # How it works:
