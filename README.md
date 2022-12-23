@@ -8,3 +8,6 @@ A new place to get 3 letter minecraft names.
 3. Open the Python program called `find.py` and input the whole pasted list.
 4. It outputs a set of ordered usernames that are ordered based on the lowercase width, in pixels, of the text.
 For example: `ijk` would output `12` since it has widths: `1`, `5` and `4`. It adds it to 2 and that's its shortness rating. This will be posted weekly on the `usernames.txt` file.
+
+
+I will be updating the usernames.txt file weekly.
