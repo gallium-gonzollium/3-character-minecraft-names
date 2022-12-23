@@ -15,7 +15,7 @@ def shortness_value(string):
   # Create a lookup table for the shortness values of each character
     shortness_values = {
         'a': 5, 'b': 5, 'c': 5, 'd': 5, 'e': 5,
-        'f': 3, 'g': 5, 'h': 5, 'i': 1, 'j': 5, 
+        'f': 4, 'g': 5, 'h': 5, 'i': 1, 'j': 5, 
         'k': 5, 'l': 2, 'm': 5, 'n': 5, 'o': 5, 
         'p': 5, 'q': 5, 'r': 5, 's': 5, 't': 3, 
         'u': 5, 'v': 5, 'w': 5, 'x': 5, 'y': 5, 
