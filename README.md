@@ -12,4 +12,4 @@ For example: `ijk` would output `12` since it has widths: `1`, `5` and `4`. It a
 
 The `dropping_soon.txt` file will be for the white text. These ones are ones that will be available in less than a month.
 
-I will be updating the `usernames.txt` and `dropping_soon.txt` file daily.
+I will be updating the `usernames.txt` and `dropping_soon.txt` file weekly.
